@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weimaraner.Common", "..\Weimaraner.Common\Weimaraner.Common.csproj", "{FEFB4C5B-C101-4624-83C3-D46DF4A63D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weimaraner.Web", "..\Weimaraner.Web\Weimaraner.Web.csproj", "{E54C887B-C59F-4BA5-AC48-B4F9CFA9CDC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFB4C5B-C101-4624-83C3-D46DF4A63D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFB4C5B-C101-4624-83C3-D46DF4A63D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFB4C5B-C101-4624-83C3-D46DF4A63D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFB4C5B-C101-4624-83C3-D46DF4A63D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54C887B-C59F-4BA5-AC48-B4F9CFA9CDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54C887B-C59F-4BA5-AC48-B4F9CFA9CDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54C887B-C59F-4BA5-AC48-B4F9CFA9CDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54C887B-C59F-4BA5-AC48-B4F9CFA9CDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB85E70A-4265-41A2-890F-EAF17176A63D}
+	EndGlobalSection
+EndGlobal
